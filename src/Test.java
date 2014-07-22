@@ -5,6 +5,6 @@ public class Test {
         out.println("hello world and goodbye");
 
         int x = 5;
-        out.println("x: " + x);
+        out.println("y: " + x);
     }
 }
